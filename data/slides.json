@@ -1,0 +1,13 @@
+
+{
+    "1": "Introduction: This presentation explains how artificial intelligence is changing modern technology.",
+    "2": "Artificial Intelligence: AI enables computer systems to perform tasks that normally require human intelligence.",
+    "3": "Machine Learning: Machine learning allows computers to learn patterns from data and make predictions without being explicitly programmed for every task.",
+    "4": "Deep Learning: Deep learning is a subset of machine learning that uses neural networks with multiple layers to learn complex patterns.",
+    "5": "Natural Language Processing: NLP enables computers to understand, process, and generate human language.",
+    "6": "Retrieval-Augmented Generation: RAG combines information retrieval with language generation. It retrieves relevant information from external documents before generating an answer.",
+    "7": "Python Programming: Python is a programming language widely used in artificial intelligence, machine learning, data analysis, and backend development.",
+    "8": "Vector Databases: Vector databases store numerical representations of information called embeddings and support similarity searches.",
+    "9": "AI Agents: AI agents can receive goals, reason about tasks, use tools, and execute multiple steps to achieve objectives.",
+    "10": "Conclusion: AI engineering combines programming, data processing, language models, retrieval systems, and application development to build useful intelligent systems."
+}
